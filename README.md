@@ -5,9 +5,9 @@ You can to contact me through email : dazza1379@gmail.com
 ## Some of my best Work : 
 
 #### Machine Learning Projects : 
-  -https://github.com/Danny1379/Computational_intelligence_final_project_NLP
-  -https://github.com/Danny1379/Computational_Intelligence_Course_Polynomial_Regression
-  -https://github.com/Danny1379/Computational_Intelligence_Course_KNN_SVM
+  -[Danny1379/Computational_intelligence_final_project_NLP](https://github.com/Danny1379/Computational_intelligence_final_project_NLP)
+  -[Danny1379/Computational_Intelligence_Course_Polynomial_Regression](https://github.com/Danny1379/Computational_Intelligence_Course_Polynomial_Regression)
+  -[https://github.com/Danny1379/Computational_Intelligence_Course_KNN_SVM](https://github.com/Danny1379/Computational_Intelligence_Course_KNN_SVM)
 
 
 <!--
