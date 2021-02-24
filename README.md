@@ -5,9 +5,14 @@ You can to contact me through email : dazza1379@gmail.com
 ## Some of my best Work : 
 
 #### Machine Learning Projects : 
-  - [Danny1379/Computational_intelligence_final_project_NLP](https://github.com/Danny1379/Computational_intelligence_final_project_NLP)
-  - [Danny1379/Computational_Intelligence_Course_Polynomial_Regression](https://github.com/Danny1379/Computational_Intelligence_Course_Polynomial_Regression)
-  - [Danny1379/Computational_Intelligence_Course_KNN_SVM](https://github.com/Danny1379/Computational_Intelligence_Course_KNN_SVM)
+  - [Natrual Language Processing for CI final Project](https://github.com/Danny1379/Computational_intelligence_final_project_NLP)
+  - [Polynomial Regression Implementation using numpy and Pandas](https://github.com/Danny1379/Computational_Intelligence_Course_Polynomial_Regression)
+  - [KNN implementation using numpy and classification with SVM](https://github.com/Danny1379/Computational_Intelligence_Course_KNN_SVM)
+#### Course Projects : 
+  - [AI course Final Project : othello game with MiniMax alpha beta](https://github.com/alishokri1661s/Othello_AI)
+  - [Operating systems final project : multithreading Synchronization using Semaphores](https://github.com/Danny1379/OS_final_project)
+  - [Risc V multiCycle Processor system verilog](https://github.com/Danny1379/RISC_V_MultiCycle_Processor)
+  - [Advanced Programming Midterm Project](https://github.com/Danny1379/AP_MidTerm_Project_ExamSystem)
 
 
 <!--
