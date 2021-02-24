@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi my name Daniel Ali Azimi. i'm currently a CE student at Shahid Beheshti university in Tehran and also a novice Data Scientist with some experience in Machine Learning.
+
+You may be able to contact me through email : dazza1379@gmail.com
+
+## Some of my important work : 
 
 <!--
 **Danny1379/Danny1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
