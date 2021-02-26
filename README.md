@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Danny1379=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 Hello and Welcome to my Github Page. My name is Daniel Ali Azimi. i'm currently a CE student at Shahid Beheshti university and also a novice Data Scientist with some experience in Machine Learning.
 
 You can to contact me through email : dazza1379@gmail.com
