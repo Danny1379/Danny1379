@@ -1,4 +1,4 @@
-Hello and Welcome to my Github Page. My name is Daniel Ali Azimi. I'm currently a CE student at Shahid Beheshti university and also a novice Data Scientist with some experience in Machine Learning.
+Hello and welcome to my Github page. My name is Daniel Ali Azimi. I'm currently a CE student at Shahid Beheshti university and also a novice Data Scientist with some experience in Machine Learning.
 
 You can to contact me through email : dazza1379@gmail.com
 
